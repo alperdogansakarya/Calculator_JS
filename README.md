@@ -1,2 +1,2 @@
 # Calculator_JS
-ı made calculator with javascript,html,css
+ı made a calculator with javascript,html,css
